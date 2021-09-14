@@ -1,0 +1,29 @@
+body
+{
+    background-color: #e06997;
+    color:#000;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+    font-size: 2rem;
+    font-weight: bolder;
+    background-image: url("pic.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 350px;
+    background-position: center bottom;
+}
+button
+{
+    border-radius:2rem;
+    border-color: black;
+    padding:25px;
+    background-color:#b0e3ec;
+    color:black;
+
+}
+button:hover
+{
+    cursor:pointer;
+    background-color: rgb(77, 173, 185);
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
